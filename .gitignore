@@ -1,0 +1,17 @@
+*.scc
+*.log
+*.user
+*.suo
+*.cachefile
+*.ncb
+*.orig
+!.gitignore
+obj/
+WebSite5/Bin/
+.vs/
+build
+packages
+WebSite5/node_modules
+.vscode
+npm-debug.log
+Thumbs.db

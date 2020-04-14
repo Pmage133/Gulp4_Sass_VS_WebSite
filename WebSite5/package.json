@@ -1,0 +1,15 @@
+{
+  "name": "website5",
+  "version": "1.0.0",
+  "description": "myyyyy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meeeeeee",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
